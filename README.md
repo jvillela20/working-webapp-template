@@ -18,3 +18,5 @@
 - Views: Fetch the data from the models and pass it to the serializers for conversion, then send the serialized data in the API response.
 
 - URLs: Define the API endpoints that the frontend can request.
+
+- Jesus Villela
